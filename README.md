@@ -1,16 +1,17 @@
-## Hi there 👋
+## Роман
+### О себе
+Студент, в свободное время занимаюсь проектами, к которым лежит душа. В данный момент осваиваю паралельное программирование и информационные системы.
 
-<!--
-**RomaError5/RomaError5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Навыки
+* C++
+* Python
+* CSS
+* Git
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Образование
+1. Самарский национальный исследовательский университет имени академика С.П. Королева
+2. Информационная безопасность автоматизированных систем / 3 курс
+ 
+### Проекты
+1. [*New Ways*](https://steamcommunity.com/sharedfiles/filedetails/?id=2197593000&searchtext=new+ways) (модификация на *Hearts of Iron 4*)
+2. [*Oblivion Lost Remake Semi-Official Patches*](https://www.youtube.com/watch?v=O3Gu33uhFK8) (модификация на «S.T.A.L.K.E.R.: Тень Чернобыля»)
